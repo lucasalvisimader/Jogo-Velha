@@ -1,0 +1,10 @@
+/* @font-face {
+    font-family: Candy;
+    src: local(Candy), url(./assets/Fonts/Candy\ Cake.ttf) format('truetype');
+} */
+
+#body {
+    margin: 0;
+    height: 98vh;
+    background-image: linear-gradient(lightskyblue,powderblue,paleturquoise, lightblue);
+}

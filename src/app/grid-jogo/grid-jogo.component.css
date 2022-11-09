@@ -1,0 +1,13 @@
+#buttons {
+    display: grid;
+    text-align: center;
+    grid-template-columns: auto auto auto;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+#button_ {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
